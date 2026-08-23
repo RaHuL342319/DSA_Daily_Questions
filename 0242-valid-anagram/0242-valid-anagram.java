@@ -5,13 +5,20 @@ class Solution {
             return false;
         }
 
-        char[] s1Array = s1.toCharArray();
-        char[] s2Array = s2.toCharArray();
-
-        Arrays.sort(s1Array);
-        Arrays.sort(s2Array);
-
-        // Directly compare the sorted character arrays
-        return Arrays.equals(s1Array, s2Array);
+        HashMap<Character, Integer> map = new HashMap<>();
+        
+        for(int i = 0; i < s1.length(); i++){
+            map.put(s1.charAt(i), map.getOrDefault(s1.charAt(i), 0) + 1);
+        }
+        
+        for(int i = 0; i < s2.length(); i++){
+            if(!map.containsKey(s2.charAt(i))) return false;
+            int freq = map.get(s2.charAt(i));
+            
+            if( freq== 0) return false;
+            
+            map.put(s2.charAt(i), freq - 1 );
+        }
+        return true;
     }
 }
