@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0016-3sum-closest) |
+| [0074-search-a-2d-matrix](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0283-move-zeroes](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
