@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3731-find-missing-elements](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0242-valid-anagram) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Matrix
 |  |
 | ------- |
