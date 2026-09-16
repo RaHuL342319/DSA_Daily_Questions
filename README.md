@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0443-string-compression) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Binary Search
 |  |
