@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0016-3sum-closest) |
+| [0048-rotate-image](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0283-move-zeroes](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -64,9 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0074-search-a-2d-matrix) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
