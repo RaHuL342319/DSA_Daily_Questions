@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0283-move-zeroes](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -80,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
