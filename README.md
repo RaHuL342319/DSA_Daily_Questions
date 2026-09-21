@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -119,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
