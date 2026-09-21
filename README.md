@@ -83,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0048-rotate-image) |
+| [0509-fibonacci-number](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0119-pascals-triangle-ii) |
+| [0509-fibonacci-number](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
