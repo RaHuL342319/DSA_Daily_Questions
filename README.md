@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0443-string-compression) |
