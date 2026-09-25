@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0048-rotate-image) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0493-reverse-pairs) |
 ## Simulation
