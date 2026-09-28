@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3731-find-missing-elements](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
