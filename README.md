@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
