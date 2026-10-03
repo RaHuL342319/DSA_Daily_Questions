@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/1539-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0443-string-compression) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Binary Search
 |  |
