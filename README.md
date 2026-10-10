@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/RaHuL342319/DSA_Daily_Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
